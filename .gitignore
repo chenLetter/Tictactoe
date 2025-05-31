@@ -1,11 +1,9 @@
 .plastic/
- .vs/
-  Library/
-   Logs/
-    obj/
-     UserSettings/
-      .vsconfig/
-       Assembly-CSharp.csproj/
-        ignore.conf/
-         Tictactoe.sln/
-          Unity.UOS.Encrypt.csproj
+.vs/
+Library/
+Logs/
+obj/
+UserSettings/
+.vsconfig
+*.sln
+*.csproj
