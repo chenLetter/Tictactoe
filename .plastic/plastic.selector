@@ -1,0 +1,4 @@
+repository "Tictactoe@tj_shixiaolea@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
